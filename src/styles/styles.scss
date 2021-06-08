@@ -1,0 +1,10 @@
+// order of importing does not matter
+@import './base/settings';
+@import './base/base'; // for partial ignore _ and .scss
+@import './components/add-option';
+@import './components/button';
+@import './components/container';
+@import './components/header';
+@import './components/modal';
+@import './components/widget';
+@import './components/option';
